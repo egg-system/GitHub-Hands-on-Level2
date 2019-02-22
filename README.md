@@ -297,6 +297,7 @@ $ git push -f origin branchE
 * howを書くよりは**why**をコミットメッセージに書くと分かりやすいです
 * 参考
   * [GitのコミットメッセージにEmoji Prefixを使ってテンションをあげたい話](https://tech.libinc.co.jp/entry/2018/12/05/113103)
+  * [Gitのコミットメッセージの書き方](https://qiita.com/itosho/items/9565c6ad2ffc24c09364)
   * [よいコミットメッセージ・よくないコミットメッセージ - Misoca開発者ブログ](https://tech.misoca.jp/entry/2017/03/13/132014)
   * [gitにおけるコミットログ/メッセージ例文集100](https://anond.hatelabo.jp/20160725092419)
   * [Gitコミットメッセージの7大原則](http://rochefort.hatenablog.com/entry/2015/09/05/090000)
