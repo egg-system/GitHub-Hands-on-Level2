@@ -9,7 +9,7 @@
 
 ## 注意点
 * 以下GitHubハンズオン(初級)の内容を理解している前提で進めます
-  * [GitHub-Hands-on](https://github.com/egg-system/GitHub-Hands-on)
+  * [GitHub-Hands-on-Level1](https://github.com/egg-system/GitHub-Hands-on-Level1)
 * 初級に続き**コマンドライン**から操作をしてもらいます
 
 ## Git FlowとGitHub Flow
