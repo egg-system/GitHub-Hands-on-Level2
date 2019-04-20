@@ -115,6 +115,11 @@ $ git push origin branchA
 
 ### コンフリクトの解消
 ※擬似的に複数人(Cさん、Dさん)での開発を想定して作業をします。
+* 先ほどmasterに反映された情報をローカルにも反映する
+```
+$ git checkout master
+$ git pull
+```
 * Cさんの作業用ブランチを作成し、Bさんのファイルを修正
 ```
 $ git checkout -b branchC master
